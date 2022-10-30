@@ -1,0 +1,45 @@
+
+.body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+
+    background-color: rgb(255, 255, 255);
+}
+.container{
+    width: 100%;
+    margin: 10px;
+    overflow: hidden;   
+}
+.desc{
+    margin-left: 18%;
+    color: rgba(0,0,0,.6);;
+}
+button{
+    margin-left: 3%;
+    padding: 8px;
+    width: 10%;
+    font-size: 0.8rem;
+    border-radius: 18px;
+    background-color: #0048ff;
+    border-color: #0048ff;
+    color: #fff;
+    font-weight: 650;
+}
+
+.explore{
+    padding-left: 2%;
+}
+.stories{
+    padding-left: 75px;
+    margin-top: -15px;
+    font-size: 22px;
+    font-style: italic;
+
+}
+.edyoda{
+    font-size: 35px;
+    font-weight: 800;
+    padding-left: 75px;
+    color: #0048ff;
+}
